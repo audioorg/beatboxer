@@ -1,7 +1,7 @@
 # beatboxer
 Drum machine in a few hundred lines of html/js/css
 
-Demo: https://sig.gy/beatboxer/
+[Demo](https://beatboxer.audio.org)
 
 Inspired by: https://www.youtube.com/watch?v=6O_92BTrUcA
 
